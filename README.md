@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @Davidedinam
-- 👀 I’m interested in web dev and database management ...
-- 🌱 I’m currently learning Business in Computing  ...
-- 💞️ I’m looking to collaborate on front-end web dev and Database management ...
-- 📫 How to reach me ..@davidedinam35.com
+# 👋 Hi, I'm David Edinam — aka **DavDev**
 
-<!---
-Davidedinam/Davidedinam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Frontend Developer** focused on building clean, responsive web experiences using **React**, **Tailwind CSS**, and modern tools. I love creating solutions for ministries, events, startups, and small businesses.
+
+---
+
+### 🚀 Tech Stack & Tools
+- ⚛️ React JS, Vite
+- 🎨 Tailwind CSS, ShadCN, Framer Motion
+- 🌐 HTML5, CSS3, JavaScript (ES6+)
+- 🗃️ Firebase, Supabase, basic MongoDB
+- ⚙️ Git, GitHub, Netlify, Vercel
+
+---
+
+### 🔨 Projects
+Here are a few highlights:
+- **Counselor Tina** – Christian counseling platform built with React + Tailwind + theme toggle + slider.
+- **Youth Camp 2025 Website** – Event ticketing and product (T-shirt & cap) site.
+- **YOA Ministry Site** – Spiritual teaching hub with live video, bookings, and donation features.
+
+> 👉 Want to see more? [Check my pinned repos](https://github.com/Davidedinam?tab=repositories)
+
+---
+
+### 👨‍💻 I’m open to:
+- Freelance/Remote roles in Frontend Development
+- Projects that involve ministry, startups, or digital solutions
+- Collaborating with other devs & designers
+
+---
+
+### 📫 Let’s Connect
+- 🌍 Website: [Coming Soon!]
+- 💌 Email: [davidedinam35@gmail.com](mailto:davidedinam35@gmail.com)
+- 🧑‍💼 LinkedIn: [Your LinkedIn if available]
+- 💻 GitHub: [github.com/Davidedinam](https://github.com/Davidedinam)
+
+---
+
+> 🎯 _“Code with purpose. Build with vision.” — DavDev_
